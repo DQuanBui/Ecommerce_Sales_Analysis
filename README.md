@@ -12,7 +12,7 @@ The data for this project is sourced from the Kaggle dataset:
 ## Objectives
 
 - Identify top-performing regions, product categories, and customer segments to optimize business strategies.
-- Analyze seasonal trends and operational factors to uncover opportunities for growth and profitability
+- Analyze seasonal trends and operational factors to uncover opportunities for growth and profitability.
 - Provide data-driven recommendations to enhance decision-making and support sustainable success.
 
 ## Project Result
